@@ -1,5 +1,6 @@
 # TZwareInstaReportBot
-https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-instagram.png?width=80
+
+https://cdn.discordapp.com/attachments/851866527794855996/857277351611203624/app-icons-instagram.png
 
 This is a instgram report bot 
 Which is very powerful and fast bot.
